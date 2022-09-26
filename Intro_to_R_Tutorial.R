@@ -17,10 +17,10 @@ mpg
 #There's a variety of functions that help you do this, depending on the file format your importing.
 #E.G. read_excel, read_csv, import()
 library(readxl)
-read_excel("C:/Users/betti/Desktop/Coding/R/GPI-2022-overall-scores-and-domains-2008-2022.xlsx")
+read_excel("./GPI-2022-overall-scores-and-domains-2008-2022.xlsx")
 
 #Now, if I want to actually use this dataframe, I need to make it an object/label it.
-dataframe <- read_excel("C:/Users/betti/Desktop/Coding/R/GPI-2022-overall-scores-and-domains-2008-2022.xlsx")
+dataframe <- read_excel("./GPI-2022-overall-scores-and-domains-2008-2022.xlsx")
 view(dataframe)
 
 #DATA CLEANING
