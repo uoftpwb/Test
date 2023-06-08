@@ -3,3 +3,7 @@ This is a testing repository for learning & testing purposes, to be used during 
 
 You can use this to try out or teach any GitHub functionality, etc!
 
+When you've used this repository, add your name below and commit your change :)
+
+VISITOR LOG:
+- Casey was here!
