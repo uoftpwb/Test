@@ -9,3 +9,7 @@ VISITOR LOG:
 - Casey was here!
 - Cooper says hi :D
 - Seoyoung says Happy Monday :)
+- Jessie says hi!
+- Cathy drinks water :)
+- casey again
+- "There shall be no one 'best branch'", said the GitHub-lord!
