@@ -10,6 +10,7 @@ VISITOR LOG:
 - Cooper says hi :D
 - alannis was here at 11:31 AM on June 12th 20223
 - casey again
+- Seoyoung says Happy Monday :)
 - Jessie says hi!
 - Cathy drinks water :)
 - casey again
