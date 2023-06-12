@@ -10,6 +10,16 @@ When you've used this repository, add your name below and commit your change :)
 VISITOR LOG:
 - Casey was here!
 - Cooper says hi :D
+
+
+- Anson was here!
+
+- Jessie says hi!
+- Cathy drinks water :)
+- casey again
+- "There shall be no one 'best branch'", said the GitHub-lord!
+
+
 - Rachel was heree :>
 - Jessie says hi!
 - Cathy drinks water :)
@@ -23,3 +33,4 @@ VISITOR LOG:
 - Cathy drinks water :)
 - casey again
 - "There shall be no one 'best branch'", said A LIAR!
+
