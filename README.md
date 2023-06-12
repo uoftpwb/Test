@@ -1,3 +1,5 @@
+# THIS IS THE BEST BRANCH - ACCEPT NO OTHERS
+
 # Test
 This is a testing repository for learning & testing purposes, to be used during our Intro to R, R Studio, &amp; Github Tutorial.
 
@@ -8,3 +10,4 @@ When you've used this repository, add your name below and commit your change :)
 VISITOR LOG:
 - Casey was here!
 - Cooper says hi :D
+- Greetings from the most supreme branch, underlings 
