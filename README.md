@@ -8,5 +8,7 @@ When you've used this repository, add your name below and commit your change :)
 VISITOR LOG:
 - Casey was here!
 - Cooper says hi :D
+- Cathy drinks water :)
 - casey again
 - "There shall be no one 'best branch'", said the GitHub-lord!
+
