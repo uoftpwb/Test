@@ -1,5 +1,5 @@
 ## INTRO TO R TUTORIAL 
-# By Elisabetta Canaletti
+# By Elisabetta Canaletti and Casey Hon
 
 #Loading a base R dataframe. Use the data() function to see what base r datasets are available
 data(iris)
