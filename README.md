@@ -10,4 +10,8 @@ VISITOR LOG:
 - Cooper says hi :D
 - alannis was here at 11:31 AM on June 12th 20223
 - casey again
+- Jessie says hi!
+- Cathy drinks water :)
+- casey again
+- "There shall be no one 'best branch'", said the GitHub-lord!
 
